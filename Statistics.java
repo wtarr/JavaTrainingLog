@@ -6,8 +6,8 @@
  ******************************************************
  */
 
-/* Note: inspiration for creating a graph in java taken from code posted on a public forum
- * by user "Craig Wood" which can be viewed @ http://www.coderanch.com/t/344345/GUI/java/Simple-Graph
+/* inspiration for creating a graph in java taken from code posted on a public forum
+ * which can be viewed @ http://www.coderanch.com/t/344345/GUI/java/Simple-Graph
  *
  * This program/class will give a graphical representation of the training data supplied by the user
  * It will express in a graph format, the users training progress with respect to their
